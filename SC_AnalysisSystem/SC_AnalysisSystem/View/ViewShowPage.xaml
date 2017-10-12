@@ -1,0 +1,36 @@
+﻿<Page x:Class="SC_AnalysisSystem.View.ViewShowPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="1080"
+	Title="ViewShowPage">
+    <Grid>
+        <Grid x:Name="gameMain">
+            <Border Background="LightGray" Opacity="0.1" />
+            <TextBlock Text="大地图场景" FontSize="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            <Canvas />
+        </Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition x:Name="smap" Height="*" />
+                <RowDefinition Height="1.5*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid x:Name="title" Grid.Row="0">
+                <Grid HorizontalAlignment="Right" Width="{Binding ActualHeight, ElementName=smap}">
+                    <Border Background="Beige" Opacity="0.2" />
+                    <TextBlock Text="小地图区域" FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                </Grid>
+            </Grid>
+            <Grid Grid.Row="1">
+                <ToggleButton x:Name="menu" Height="80" Width="20" HorizontalAlignment="Right" VerticalAlignment="Center" />
+            </Grid>
+            <Grid x:Name="person" Grid.Row="2">
+                <ListBox x:Name="persons" Background="Transparent">
+                    
+                </ListBox>
+            </Grid>
+        </Grid>
+    </Grid>
+</Page>

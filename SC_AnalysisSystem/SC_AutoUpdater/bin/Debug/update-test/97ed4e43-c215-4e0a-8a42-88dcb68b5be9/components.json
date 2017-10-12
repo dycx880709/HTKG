@@ -1,0 +1,109 @@
+{
+    "components": [
+        {
+            "md5": "9685CC08A265CCADB7FE3EDEFEF51FEA",
+            "name": "AppConfig.json",
+            "version": 20161113.011106
+        },
+        {
+            "md5": "9EB7D6E8B845DB9A94B9B7F781B86050",
+            "name": "AutoUpdater.exe",
+            "version": 20161113.091123
+        },
+        {
+            "md5": "5D17A8D4DF03BB7AF153DDD8A25AD964",
+            "name": "db/System.Data.SQLite.dll",
+            "version": 20161020.011058
+        },
+        {
+            "md5": "CFF8E4A9D78312EFC90CA6517CECDFD7",
+            "name": "db/System.Data.SQLite.Linq.dll",
+            "version": 20161020.011058
+        },
+        {
+            "md5": "53D9ED2DBD9461C7A2C8DEFCB1F32758",
+            "name": "ImgProcess.dll",
+            "version": 20160816.090825
+        },
+        {
+            "md5": "DB86FE5CCCBF59D4F0D68589E9B34F09",
+            "name": "lib/CaptureNewLib.dll",
+            "version": 20161020.011051
+        },
+        {
+            "md5": "3EE75906B06FA4499CBC7671E162403E",
+            "name": "lib/DynamicDotNetTWAIN.Wpf.dll",
+            "version": 20161020.011055
+        },
+        {
+            "md5": "9DDFAB8530178AD594AAAA774A61EF67",
+            "name": "libiconv-2.dll",
+            "version": 20120914.060938
+        },
+        {
+            "md5": "FB0BA57FED7804C072135A2B9C7567D3",
+            "name": "libiconv.dll",
+            "version": 20150621.040659
+        },
+        {
+            "md5": "B946BCBA1D77A3FB87F68170DBB8E802",
+            "name": "libzbar-0.dll",
+            "version": 20091027.031046
+        },
+        {
+            "md5": "FB1E8EEE84791CC015E043AB0CE32BBA",
+            "name": "MahApps.Metro.dll",
+            "version": 20160121.030138
+        },
+        {
+            "md5": "F68CC6AA976CCDB2E604885956395081",
+            "name": "MD5Verification.exe",
+            "version": 20161113.091122
+        },
+        {
+            "md5": "C53737821B861D454D5248034C3C097C",
+            "name": "Newtonsoft.Json.dll",
+            "version": 20160613.030614
+        },
+        {
+            "md5": "F20967BEAE947A5D54156B5CB40D0C04",
+            "name": "System.Reactive.Core.dll",
+            "version": 20140722.070712
+        },
+        {
+            "md5": "0A471405A43ACE8273B6E266F819901F",
+            "name": "System.Reactive.Interfaces.dll",
+            "version": 20140722.070714
+        },
+        {
+            "md5": "317DCE13B2316ABEE548A2B013F26471",
+            "name": "System.Reactive.Linq.dll",
+            "version": 20140722.070714
+        },
+        {
+            "md5": "E374A67E37AFA8387CC5310F7C54B2F3",
+            "name": "System.Reactive.PlatformServices.dll",
+            "version": 20140722.070716
+        },
+        {
+            "md5": "580244BC805220253A87196913EB3E5E",
+            "name": "System.Windows.Interactivity.dll",
+            "version": 20160121.030138
+        },
+        {
+            "md5": "BE0B7CFC7A9549CB4D11D1794E366E25",
+            "name": "WHATSNEW.txt",
+            "version": 20161113.101143
+        },
+        {
+            "md5": "1E95A17BF2046018D665D8C267121794",
+            "name": "YJYClient2.exe",
+            "version": 20161113.091124
+        },
+        {
+            "md5": "9D6C4A0FB2ACB8291D3014AFBFC7FBBB",
+            "name": "YJYClient2.exe.config",
+            "version": 20161031.03103
+        }
+    ]
+}

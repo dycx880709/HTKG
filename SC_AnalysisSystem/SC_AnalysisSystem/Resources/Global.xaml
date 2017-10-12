@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/SC_AnalysisSystem;component/Resources/Themes/Properties.xaml" />
+        <ResourceDictionary Source="/SC_AnalysisSystem;component/Resources/Themes/FIcon.xaml" />
+        <ResourceDictionary Source="/SC_AnalysisSystem;component/Resources/Themes/Share.xaml" />
+        <ResourceDictionary Source="/SC_AnalysisSystem;component/Resources/Themes/ComboBox.xaml" />
+        <ResourceDictionary Source="/SC_AnalysisSystem;component/Resources/Themes/ListBox.xaml" />
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>

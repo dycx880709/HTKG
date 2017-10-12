@@ -1,0 +1,10 @@
+D:\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\bin\Debug\SC_AnalysisSystem_Common.dll
+D:\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\bin\Debug\SC_AnalysisSystem_Common.pdb
+D:\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\obj\Debug\SC_AnalysisSystem_Common.dll
+D:\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\obj\Debug\SC_AnalysisSystem_Common.pdb
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\bin\Debug\SC_AnalysisSystem_Common.dll
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\bin\Debug\SC_AnalysisSystem_Common.pdb
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\obj\Debug\SC_AnalysisSystem_Common.csproj.CoreCompileInputs.cache
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\obj\Debug\SC_AnalysisSystem_Common.dll
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\obj\Debug\SC_AnalysisSystem_Common.pdb
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Common\bin\Debug\Newtonsoft.Json.dll

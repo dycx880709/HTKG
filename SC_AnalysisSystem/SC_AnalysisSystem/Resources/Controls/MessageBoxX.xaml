@@ -1,0 +1,55 @@
+﻿<local:WindowBase x:Class="SC_AnalysisSystem.Resources.Controls.MessageBoxX"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:attach="clr-namespace:SC_AnalysisSystem_Core.AttachProperty;assembly=SC_AnalysisSystem_Core"
+        xmlns:local="clr-namespace:SC_AnalysisSystem.Resources.Controls"
+        Height="240" Width="360" WindowStyle="None" WindowStartupLocation="CenterOwner" 
+        Title="MessageBoxX" FontSize="14" Foreground="#666666" x:Name="mb" mc:Ignorable="d">
+    <local:WindowBase.Resources>
+        <Style TargetType="{x:Type Button}" BasedOn="{StaticResource MessageButtonStyle}" />
+    </local:WindowBase.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="32"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="topGrid" Grid.Row="0">
+            <Border Background="#66c7ff"/>
+            <TextBlock Text="&#xe649;" Margin="12,0,0,1" FontSize="15" Foreground="White" Style="{StaticResource FIcon}" HorizontalAlignment="Left"/>
+            <TextBlock Text="系统信息" Foreground="White" Grid.Column="1" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="40,0,0,1" FontSize="14"/>
+            <Button x:Name="btnClose" Grid.Column="2" IsCancel="True" Foreground="White" Content="&#xe65d;" Click="btnClose_Click" Style="{StaticResource FIButtonStyle}" ToolTip="关闭" HorizontalAlignment="Right" FontSize="13" Margin="0,0,10,0"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <Grid>
+                <Grid.ColumnDefinitions> 
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock x:Name="ficon" Visibility="Collapsed" Width="65" VerticalAlignment="Center" FontSize="35" Text="&#xe61c;" Foreground="{Binding Foreground,ElementName=mb}" Style="{StaticResource FIcon}"/>
+                <TextBlock x:Name="txtMessage" Grid.Column="1" Margin="15,5" VerticalAlignment="Center" Foreground="{Binding Foreground,ElementName=mb}" HorizontalAlignment="Center"
+                       FontSize="{Binding FontSize,ElementName=mb}" TextWrapping="Wrap" Text="这是一个错误提示"/>
+            </Grid>
+           <Grid x:Name="btnGrid" Grid.Row="1" Height="45">
+                <Border Height="1" VerticalAlignment="Top" Grid.Row="1" BorderBrush="#eeeeee" BorderThickness="1"/>
+                <Button x:Name="OKbtn" Grid.Row="1" Width="84" IsDefault="True" attach:ControlAttachProperty.FIconText="&#xe61b;" Click="btnOK_Click">我知道了</Button>
+                <StackPanel x:Name="twoBtnSp" Visibility="Hidden" Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center" Margin="1" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+                    <Button x:Name="btnOK" attach:ControlAttachProperty.FIconText="&#xe61b;" Margin="0,0,20,0" Click="btnOK_Click">确定</Button>
+                    <Button x:Name="btnCancel" attach:ControlAttachProperty.FIconText="&#xe640;" Click="btnCancel_Click">取消</Button>
+                </StackPanel>
+                <StackPanel x:Name="threeBtnSp" Visibility="Hidden" Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center" Margin="1" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+                    <Button x:Name="btnYes" attach:ControlAttachProperty.FIconText="&#xe61b;" Margin="0,0,20,0" Click="btnYes_Click">是</Button>
+                    <Button x:Name="btnNo" attach:ControlAttachProperty.FIconText="&#xe640;" Click="btnNo_Click" Margin="0,0,20,0">否</Button>
+                    <Button x:Name="Cancelbtn" attach:ControlAttachProperty.FIconText="&#xe640;" Click="cancelBtn_Click">取消</Button>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Grid>
+</local:WindowBase>
+
+    

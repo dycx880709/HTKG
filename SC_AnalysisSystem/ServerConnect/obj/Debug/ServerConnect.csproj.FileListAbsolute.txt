@@ -1,0 +1,13 @@
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\ServerConnect\bin\Debug\ServerConnect.dll
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\ServerConnect\bin\Debug\ServerConnect.pdb
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\ServerConnect\obj\Debug\ServerConnect.dll
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\ServerConnect\obj\Debug\ServerConnect.pdb
+D:\SC_AnalysisSystem\SC_AnalysisSystem\ServerConnect\bin\Debug\ServerConnect.dll
+D:\SC_AnalysisSystem\SC_AnalysisSystem\ServerConnect\bin\Debug\ServerConnect.pdb
+D:\SC_AnalysisSystem\SC_AnalysisSystem\ServerConnect\obj\Debug\ServerConnect.dll
+D:\SC_AnalysisSystem\SC_AnalysisSystem\ServerConnect\obj\Debug\ServerConnect.pdb
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\ServerConnect\bin\Debug\ServerConnect.dll
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\ServerConnect\bin\Debug\ServerConnect.pdb
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\ServerConnect\obj\Debug\ServerConnect.csproj.CoreCompileInputs.cache
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\ServerConnect\obj\Debug\ServerConnect.dll
+C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\ServerConnect\obj\Debug\ServerConnect.pdb

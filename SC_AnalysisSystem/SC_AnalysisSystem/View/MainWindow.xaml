@@ -1,0 +1,32 @@
+﻿<Window x:Class="SC_AnalysisSystem.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:SC_AnalysisSystem.ViewModel"
+        Title="MainWindow" Height="768" Width="1080">
+    <Window.Resources>
+        <vm:MainViewModel x:Key="MainViewModel" />
+    </Window.Resources>
+    <Window.DataContext>
+        <Binding Source="{StaticResource MainViewModel}" />
+    </Window.DataContext>
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Button Grid.Column="0" Content="综合指挥" Margin="30" FontSize="30" Command="{Binding ButtonCommand}" CommandParameter="SC_AnalysisSystem.View.TrainManagementPage"/>
+            <Button Grid.Column="1" Content="分析评估" Margin="30" FontSize="30" Command="{Binding ButtonCommand}" CommandParameter="SC_AnalysisSystem.View.HistoryManagementPage"/>
+            <Button Grid.Column="2" Content="综合显示" Margin="30" FontSize="30"/>
+            <Button Grid.Row="1" Grid.Column="0" Content="场景创建" Margin="30" FontSize="30"/>
+            <Button Grid.Row="1" Grid.Column="1" Content="基础创建" Margin="30" FontSize="30"/>
+            <Button Grid.Row="1" Grid.Column="2" Content="平台管理" Margin="30" FontSize="30" Command="{Binding ButtonCommand}" CommandParameter="SC_AnalysisSystem.View.SystemManagementPage" />
+        </Grid>
+        <Frame x:Name="frame" />
+    </Grid>
+</Window>

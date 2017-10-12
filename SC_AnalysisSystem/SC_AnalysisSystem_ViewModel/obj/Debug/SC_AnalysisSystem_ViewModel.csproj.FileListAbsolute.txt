@@ -1,0 +1,7 @@
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\SC_AnalysisSystem_ViewModel\bin\Debug\SC_AnalysisSystem_ViewModel.dll
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\SC_AnalysisSystem_ViewModel\bin\Debug\SC_AnalysisSystem_ViewModel.pdb
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\SC_AnalysisSystem_ViewModel\bin\Debug\SC_AnalysisSystem_Core.dll
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\SC_AnalysisSystem_ViewModel\bin\Debug\SC_AnalysisSystem_Core.pdb
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\SC_AnalysisSystem_ViewModel\obj\Debug\SC_AnalysisSystem_ViewModel.csprojResolveAssemblyReference.cache
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\SC_AnalysisSystem_ViewModel\obj\Debug\SC_AnalysisSystem_ViewModel.dll
+E:\xyy-solution\vs\Project\SC_AnalysisSystem\SC_AnalysisSystem_ViewModel\obj\Debug\SC_AnalysisSystem_ViewModel.pdb

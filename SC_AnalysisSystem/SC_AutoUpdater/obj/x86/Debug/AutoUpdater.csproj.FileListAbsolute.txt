@@ -1,0 +1,103 @@
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\App.baml
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\Theme\Black\Style.baml
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\Theme\Black\WindowBaseStyle.baml
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\App.g.cs
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\UI\AlertWin.g.cs
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.g.cs
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.cache
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.lref
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\UI\AlertWin.baml
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.baml
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater.g.resources
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\Ezhu.AutoUpdater.Properties.Resources.resources
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater.exe
+E:\OpenSourcePrjs\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.exe
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdater.pdb
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater.csprojResolveAssemblyReference.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\App.baml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\Theme\Black\Style.baml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\Theme\Black\WindowBaseStyle.baml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\App.g.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\UI\AlertWin.g.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.g.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.cache
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.lref
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\UI\AlertWin.baml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.baml
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater.g.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\Ezhu.AutoUpdater.Properties.Resources.resources
+C:\Users\pc\Documents\Visual Studio 2015\Projects\AutoUpdater\AutoUpdater\obj\x86\Debug\AutoUpdater.csproj.GenerateResource.Cache
+E:\YJYClient\AutoUpdater\bin\Debug\AutoUpdater.exe.config
+E:\YJYClient\AutoUpdater\bin\Debug\AutoUpdater.exe
+E:\YJYClient\AutoUpdater\bin\Debug\AutoUpdater.pdb
+E:\YJYClient\AutoUpdater\obj\x86\Debug\App.baml
+E:\YJYClient\AutoUpdater\obj\x86\Debug\Theme\Black\Style.baml
+E:\YJYClient\AutoUpdater\obj\x86\Debug\Theme\Black\WindowBaseStyle.baml
+E:\YJYClient\AutoUpdater\obj\x86\Debug\Theme\Custom\WindowBaseStyle.baml
+E:\YJYClient\AutoUpdater\obj\x86\Debug\App.g.cs
+E:\YJYClient\AutoUpdater\obj\x86\Debug\UI\DownCmpProcess.g.cs
+E:\YJYClient\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.g.cs
+E:\YJYClient\AutoUpdater\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\YJYClient\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.cache
+E:\YJYClient\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.lref
+E:\YJYClient\AutoUpdater\obj\x86\Debug\Theme\Custom\Style.baml
+E:\YJYClient\AutoUpdater\obj\x86\Debug\UI\DownCmpProcess.baml
+E:\YJYClient\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.baml
+E:\YJYClient\AutoUpdater\obj\x86\Debug\AutoUpdater.g.resources
+E:\YJYClient\AutoUpdater\obj\x86\Debug\Ezhu.AutoUpdater.Properties.Resources.resources
+E:\YJYClient\AutoUpdater\obj\x86\Debug\AutoUpdater.csproj.GenerateResource.Cache
+E:\YJYClient\AutoUpdater\obj\x86\Debug\AutoUpdater.exe
+E:\YJYClient\AutoUpdater\obj\x86\Debug\AutoUpdater.pdb
+E:\YJYTemplate\AutoUpdater\bin\Debug\AutoUpdater.exe.config
+E:\YJYTemplate\AutoUpdater\bin\Debug\AutoUpdater.exe
+E:\YJYTemplate\AutoUpdater\bin\Debug\AutoUpdater.pdb
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\App.baml
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\Theme\Black\Style.baml
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\Theme\Black\WindowBaseStyle.baml
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\Theme\Custom\WindowBaseStyle.baml
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\App.g.cs
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\UI\DownCmpProcess.g.cs
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.g.cs
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.cache
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.lref
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\Theme\Custom\Style.baml
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\UI\DownCmpProcess.baml
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.baml
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\AutoUpdater.g.resources
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\Ezhu.AutoUpdater.Properties.Resources.resources
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\AutoUpdater.csproj.GenerateResource.Cache
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\AutoUpdater.exe
+E:\YJYTemplate\AutoUpdater\obj\x86\Debug\AutoUpdater.pdb
+E:\YJYTemplate1\AutoUpdater\bin\Debug\AutoUpdater.exe.config
+E:\YJYTemplate1\AutoUpdater\bin\Debug\AutoUpdater.exe
+E:\YJYTemplate1\AutoUpdater\bin\Debug\AutoUpdater.pdb
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\App.baml
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\Theme\Black\Style.baml
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\Theme\Black\WindowBaseStyle.baml
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\Theme\Custom\WindowBaseStyle.baml
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\App.g.cs
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\UI\DownCmpProcess.g.cs
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.g.cs
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.cache
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\AutoUpdater_MarkupCompile.lref
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\Theme\Custom\Style.baml
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\UI\DownCmpProcess.baml
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\UI\DownFileProcess.baml
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\AutoUpdater.g.resources
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\Ezhu.AutoUpdater.Properties.Resources.resources
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\AutoUpdater.csproj.GenerateResource.Cache
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\AutoUpdater.exe
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\AutoUpdater.pdb
+E:\YJYTemplate1\AutoUpdater\obj\x86\Debug\AutoUpdater.csprojResolveAssemblyReference.cache

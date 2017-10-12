@@ -1,0 +1,24 @@
+{
+  "components": 
+  [
+    {
+      "md5": "B3BC9F5E8AE29807DD981FE224A4F15C",
+      "name": "AppConfig.json",
+      "version": 20161206.071249
+    },
+    {
+      "md5": "45016DD2A5FC1E6C295919B63E395151",
+      "name": "AutoUpdater.exe",
+      "version": 20161214.021235
+    },
+    {
+      "md5": "5D17A8D4DF03BB7AF153DDD8A25AD964",
+      "name": "db\/System.Data.SQLite.dll",
+      "version": 20130807.080858
+    },
+    {
+      "md5": "CFF8E4A9D78312EFC90CA6517CECDFD7",
+      "name": "db\/System.Data.SQLite.Linq.dll",
+      "version": 20130807.080858
+    }
+  ]}

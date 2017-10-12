@@ -1,0 +1,22 @@
+{
+    "debug": true,
+    "homeUrl": "http://test3.yuejuanyi.com",
+    "ignoreCmpUpdate": false,
+    "ignoreFrameworkValidate": false,
+    "ignoreMissPage": false,
+    "ignoreSystemValidate": false,
+    "isBeta": false,
+    "isSliceTest": false,
+    "localPaperTemplatesDir": null,
+    "logTargets": 0,
+    "skipLoading": true,
+    "skipProcessImage": false,
+    "skipUpload": true,
+    "supportHandWrite": false,
+    "supportStudentNumberBarcode": true,
+    "syncScan": false,
+    "testImgProcess": null,
+    "twainShowUI": false,
+    "useLocalItemInfos": false,
+    "isScanerCompare": true
+}
