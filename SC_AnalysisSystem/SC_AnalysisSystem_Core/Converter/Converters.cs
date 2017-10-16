@@ -18,5 +18,15 @@ namespace SC_AnalysisSystem_Core.Converter
         {
             get { return Singleton<TrueToFalseConverter>.GetInstance(); }
         }
+
+        public static FalseToCollapsedConverter FalseToCollapsedConverter
+        {
+            get { return Singleton<FalseToCollapsedConverter>.GetInstance(); }
+        }
+
+        public static NotZeroToBoolConverter NotZeroToBoolConverter
+        {
+            get { return Singleton<NotZeroToBoolConverter>.GetInstance(); }
+        }
     }
 }

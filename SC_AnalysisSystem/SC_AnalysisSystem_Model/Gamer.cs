@@ -6,6 +6,8 @@ using System.Windows;
 
 namespace SC_AnalysisSystem_Model
 {
+    public enum GamerState { OffLine, Online, Gaming, Preparing }
+
     public class Gamer
     {
         public string Id { get; set; }
@@ -13,6 +15,10 @@ namespace SC_AnalysisSystem_Model
         /// 真实人物id
         /// </summary>
         public string PersonId { get; set; }
+        /// <summary>
+        /// 真实人物名称-冗余
+        /// </summary>
+        public string PersonName { get; set; }
         /// <summary>
         /// 血量
         /// </summary>
@@ -37,5 +43,9 @@ namespace SC_AnalysisSystem_Model
         /// 延迟度
         /// </summary>
         public int Delay { get; set; }
+        /// <summary>
+        /// 玩家状态
+        /// </summary>
+        public GamerState State { get; set; }
     }   
 }

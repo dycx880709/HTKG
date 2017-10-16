@@ -4,7 +4,7 @@
 winexe
 C#
 .cs
-C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AutoUpdater\obj\x86\Debug\
+C:\Users\pudge\source\repos\SC_AnalysisSystem\HTKG\SC_AnalysisSystem\SC_AutoUpdater\obj\x86\Debug\
 Ezhu.AutoUpdater
 none
 false
@@ -16,5 +16,5 @@ DEBUG;TRACE
 14-963617828
 App.xaml;Theme\Black\Style.xaml;Theme\Black\WindowBaseStyle.xaml;Theme\Custom\Style.xaml;Theme\Custom\WindowBaseStyle.xaml;UI\DownCmpProcess.xaml;UI\DownFileProcess.xaml;
 
-False
+True
 

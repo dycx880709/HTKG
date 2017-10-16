@@ -17,9 +17,9 @@
         <GroupBox Header="人员配置信息" Margin="0,5">
             <StackPanel Orientation="Horizontal">
                 <ComboBox Margin="5" attach:ControlAttachProperty.Label="选择部门" Foreground="Black" Style="{StaticResource LabelComboBox}" attach:ControlAttachProperty.Watermark="选择部门" />
-                <ComboBox Margin="15, 5" attach:ControlAttachProperty.Label="选择科室" Foreground="Black" Style="{StaticResource LabelComboBox}" attach:ControlAttachProperty.Watermark="选择部门"/>
+                <ComboBox Margin="10, 5" attach:ControlAttachProperty.Label="选择科室" Foreground="Black" Style="{StaticResource LabelComboBox}" attach:ControlAttachProperty.Watermark="选择部门"/>
                 <ComboBox Margin="5" attach:ControlAttachProperty.Label="参与人员" Foreground="Black" Style="{StaticResource LabelComboBox}" attach:ControlAttachProperty.Watermark="选择部门" />
-                <Button Margin="20,0,0,0" Height="30" Width="100" Content="重置" Command="{Binding ButtonCommand}" CommandParameter="refresh" />
+                <Button Margin="10,0,0,0" Height="30" Width="100" Content="重置" Command="{Binding ButtonCommand}" CommandParameter="refresh" />
             </StackPanel>
         </GroupBox>
         <GroupBox Header="人员信息" Margin="0, 5" Grid.Row="1">

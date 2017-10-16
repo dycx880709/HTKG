@@ -1,0 +1,35 @@
+﻿<Window x:Class="SC_AnalysisSystem.View.GamerChooseWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:attach="clr-namespace:SC_AnalysisSystem_Core.AttachProperty;assembly=SC_AnalysisSystem_Core"
+        xmlns:ap="clr-namespace:SC_AnalysisSystem.AttachProperty"
+        xmlns:local="clr-namespace:SC_AnalysisSystem.View"
+        xmlns:vm="clr-namespace:SC_AnalysisSystem.ViewModel"
+        mc:Ignorable="d" WindowStartupLocation="CenterOwner"
+        Title="GamerChooseWindow" Height="400" Width="300">
+    <Window.Resources>
+        <vm:GamerChooseViewModel x:Key="GamerChooseViewModel" />
+    </Window.Resources>
+    <Window.DataContext>
+        <Binding Source="{StaticResource GamerChooseViewModel}" />
+    </Window.DataContext>
+    <Grid>
+        <DataGrid Margin="5" SelectionMode="Single" ItemsSource="{Binding Gamers}" attach:RowDoubleClickHandler.MethodName="TestDoubleClick">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="当前状态"  Width="*">
+                    <DataGridTextColumn.CellStyle>
+                        <Style TargetType="DataGridCell" BasedOn="{StaticResource BaseOnCellStyle}">
+                            <Setter Property="ap:LocalAttachProperty.GamerState" Value="{Binding State}" />
+                            <Setter Property="Template" Value="{StaticResource GamerCellControlTemplate}" />
+                        </Style>
+                    </DataGridTextColumn.CellStyle>
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="玩家姓名"  Width="*" Binding="{Binding PersonName}"/>
+                <DataGridTextColumn Header="连接地址"  Width="*" Binding="{Binding IpAddress}"/>
+                <DataGridTextColumn Header="延迟情况"  Width="*" Binding="{Binding Delay}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

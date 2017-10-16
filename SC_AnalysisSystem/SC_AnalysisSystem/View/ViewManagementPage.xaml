@@ -18,20 +18,18 @@
             <RowDefinition Height="*" />
         </Grid.RowDefinitions>
         <GroupBox Header="正在进行的训练列表">
-            <ListView>
-                <ListView.View>
-                    <GridView>
-                        <GridViewColumn Header="ID"/>
-                        <GridViewColumn Header="游戏类型" />
-                        <GridViewColumn Header="开始时间" />
-                        <GridViewColumn Header="场景名称" />
-                        <GridViewColumn Header="当前状态" />
-                        <GridViewColumn Header="玩家人数" />
-                        <GridViewColumn Header="游戏难度" />
-                        <GridViewColumn Header="建议用时" />
-                    </GridView>
-                </ListView.View>
-            </ListView>
+            <DataGrid Margin="5" SelectionMode="Single" ItemsSource="{Binding Gamers}">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Width="*" Binding="{Binding PersonName}"/>
+                    <DataGridTextColumn Header="游戏类型"  Width="*" Binding="{Binding PersonName}"/>
+                    <DataGridTextColumn Header="开始时间"  Width="*" Binding="{Binding IpAddress}"/>
+                    <DataGridTextColumn Header="场景名称"  Width="*" Binding="{Binding Delay}"/>
+                    <DataGridTextColumn Header="当前状态"  Width="*" Binding="{Binding Delay}"/>
+                    <DataGridTextColumn Header="玩家人数"  Width="*" Binding="{Binding Delay}"/>
+                    <DataGridTextColumn Header="游戏难度"  Width="*" Binding="{Binding Delay}"/>
+                    <DataGridTextColumn Header="建议用时"  Width="*" Binding="{Binding Delay}"/>
+                </DataGrid.Columns>
+            </DataGrid>
         </GroupBox>
         <GroupBox Grid.Row="1" Header="人员配置列表">
             <ListBox x:Name="person_ListBox" ItemsSource="{Binding PersonInfos}" Margin="5,0">

@@ -14,3 +14,9 @@ C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSyste
 C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Core\obj\Debug\SC_AnalysisSystem_Core.csproj.CoreCompileInputs.cache
 C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Core\obj\Debug\SC_AnalysisSystem_Core.dll
 C:\Users\pudge\source\repos\SC_AnalysisSystem\SC_AnalysisSystem\SC_AnalysisSystem_Core\obj\Debug\SC_AnalysisSystem_Core.pdb
+C:\Users\pudge\source\repos\SC_AnalysisSystem\HTKG\SC_AnalysisSystem\SC_AnalysisSystem_Core\bin\Debug\SC_AnalysisSystem_Core.dll
+C:\Users\pudge\source\repos\SC_AnalysisSystem\HTKG\SC_AnalysisSystem\SC_AnalysisSystem_Core\bin\Debug\SC_AnalysisSystem_Core.pdb
+C:\Users\pudge\source\repos\SC_AnalysisSystem\HTKG\SC_AnalysisSystem\SC_AnalysisSystem_Core\bin\Debug\System.Utility.dll
+C:\Users\pudge\source\repos\SC_AnalysisSystem\HTKG\SC_AnalysisSystem\SC_AnalysisSystem_Core\obj\Debug\SC_AnalysisSystem_Core.csproj.CoreCompileInputs.cache
+C:\Users\pudge\source\repos\SC_AnalysisSystem\HTKG\SC_AnalysisSystem\SC_AnalysisSystem_Core\obj\Debug\SC_AnalysisSystem_Core.dll
+C:\Users\pudge\source\repos\SC_AnalysisSystem\HTKG\SC_AnalysisSystem\SC_AnalysisSystem_Core\obj\Debug\SC_AnalysisSystem_Core.pdb

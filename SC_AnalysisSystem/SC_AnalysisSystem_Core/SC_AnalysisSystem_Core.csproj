@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="AttachProperty\AttachContentProperty.cs" />
     <Compile Include="AttachProperty\PasswordBindingHelper.cs" />
+    <Compile Include="AttachProperty\RowDoubleClickHandler.cs" />
     <Compile Include="Converter\Converters.cs" />
     <Compile Include="Converter\TrueToFalseConverter.cs" />
     <Compile Include="Messenger.cs" />
