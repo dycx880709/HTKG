@@ -38,11 +38,6 @@ TestResult.xml
 [Rr]eleasePS/
 dlldata.c
 
-# Folder
-Debug/  
-Release/  
-obj/  
-
 # DNX
 project.lock.json
 artifacts/
